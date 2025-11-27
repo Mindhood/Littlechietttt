@@ -1,0 +1,6 @@
+```bashinson
+[INFO]  Build process started...
+[INFO]  Compiling modules...
+[SUCCESS] Deploy ready.
+
+> STATUS: esto fue extramadamente vibe codeado pero el que me lo pidio nunca va a saberlo gg ezzzzzzzzzzzz
